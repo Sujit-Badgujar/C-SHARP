@@ -1,0 +1,7 @@
+E:\.NetWorkSpace\LogIn&Menu\LogIn&Menu\bin\Debug\LogIn&Menu.exe.config
+E:\.NetWorkSpace\LogIn&Menu\LogIn&Menu\bin\Debug\LogIn&Menu.exe
+E:\.NetWorkSpace\LogIn&Menu\LogIn&Menu\bin\Debug\LogIn&Menu.pdb
+E:\.NetWorkSpace\LogIn&Menu\LogIn&Menu\obj\Debug\LogIn&Menu.csproj.AssemblyReference.cache
+E:\.NetWorkSpace\LogIn&Menu\LogIn&Menu\obj\Debug\LogIn&Menu.csproj.CoreCompileInputs.cache
+E:\.NetWorkSpace\LogIn&Menu\LogIn&Menu\obj\Debug\LogIn&Menu.exe
+E:\.NetWorkSpace\LogIn&Menu\LogIn&Menu\obj\Debug\LogIn&Menu.pdb
