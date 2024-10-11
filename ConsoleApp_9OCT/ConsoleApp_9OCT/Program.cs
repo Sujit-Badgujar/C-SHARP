@@ -1,11 +1,11 @@
-﻿class Sample 
+﻿public class Sample
 {
     static void Main()
     {
         //object creation
-        product p1= new product();
-        product p2= new product();
-        product p3= new product();
+        product p1 = new product();
+        product p2 = new product();
+        product p3 = new product();
 
         //initialising
         p1.productName = "Keyboard";
@@ -24,18 +24,16 @@
         p1.productQty = 15;
 
         System.Console.Out.WriteLine("Product-1");
-        System.Console.Out.WriteLine("Product ID "+p1.proID);
-        System.Console.Out.WriteLine("Product Name : "+p1.productName);
-        System.Console.Out.WriteLine("Product Cost : "+p1.productCost);
-        System.Console.Out.WriteLine("Product QTY : "+p1.productQty);
+        System.Console.Out.WriteLine("Product ID " + p1.proID);
+        System.Console.Out.WriteLine("Product Name : " + p1.productName);
+        System.Console.Out.WriteLine("Product Cost : " + p1.productCost);
+        System.Console.Out.WriteLine("Product QTY : " + p1.productQty);
 
         System.Console.ReadKey();
-    //    System.Console.Out.WriteLine();
-    //    System.Console.Out.WriteLine();
-    //    System.Console.Out.WriteLine();
-    //    System.Console.Out.WriteLine();
-    //    System.Console.Out.WriteLine();
-    //    System.Console.Out.WriteLine();
     }
+}
 
+public class SampProducts : Sample
+{
+    //ok
 }

@@ -8,3 +8,13 @@ E:\.NetWorkSpace\ConsoleApp_9OCT\ConsoleApp_9OCT\bin\Debug\ClassLibrary1.pdb
 E:\.NetWorkSpace\ConsoleApp_9OCT\ConsoleApp_9OCT\obj\Debug\ConsoleA.3AE1ECD5.Up2Date
 E:\.NetWorkSpace\ConsoleApp_9OCT\ConsoleApp_9OCT\obj\Debug\ConsoleApp_9OCT.exe
 E:\.NetWorkSpace\ConsoleApp_9OCT\ConsoleApp_9OCT\obj\Debug\ConsoleApp_9OCT.pdb
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\bin\Debug\ConsoleApp_9OCT.exe.config
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\bin\Debug\ConsoleApp_9OCT.exe
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\bin\Debug\ConsoleApp_9OCT.pdb
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\bin\Debug\ClassLibrary1.dll
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\bin\Debug\ClassLibrary1.pdb
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\obj\Debug\ConsoleApp_9OCT.csproj.AssemblyReference.cache
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\obj\Debug\ConsoleApp_9OCT.csproj.CoreCompileInputs.cache
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\obj\Debug\ConsoleA.3AE1ECD5.Up2Date
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\obj\Debug\ConsoleApp_9OCT.exe
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ConsoleApp_9OCT\obj\Debug\ConsoleApp_9OCT.pdb

@@ -4,3 +4,9 @@ E:\.NetWorkSpace\ConsoleApp_9OCT\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.As
 E:\.NetWorkSpace\ConsoleApp_9OCT\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
 E:\.NetWorkSpace\ConsoleApp_9OCT\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 E:\.NetWorkSpace\ConsoleApp_9OCT\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\.NetWorkSpace\C-SHARP\ConsoleApp_9OCT\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
