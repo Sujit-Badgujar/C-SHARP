@@ -1,0 +1,10 @@
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\bin\Debug\Class_18OCT.exe.config
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\bin\Debug\Class_18OCT.exe
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\bin\Debug\Class_18OCT.pdb
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\bin\Debug\ClassLibrary1.dll
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\bin\Debug\ClassLibrary1.pdb
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\obj\Debug\Class_18OCT.csproj.AssemblyReference.cache
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\obj\Debug\Class_18OCT.csproj.CoreCompileInputs.cache
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\obj\Debug\Class_18.FE9C3761.Up2Date
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\obj\Debug\Class_18OCT.exe
+E:\.NetWorkSpace\Class_18OCT\Class_18OCT\obj\Debug\Class_18OCT.pdb
